@@ -65,7 +65,6 @@ and networking concepts to real-world systems.
 
 ### 📫 Connect with Me
 - **LinkedIn:** [https://www.linkedin.com/in/irhavens/]
-- **Email:** [havens.isabella.r@gmail.com]
 
 ---
 
