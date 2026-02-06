@@ -34,7 +34,9 @@ My coursework and projects emphasize **clean organization**, **correct implement
 |--------|-------------|--------------|
 | **[Event Attendance Tracker (JoinUp)](https://github.com/havensir/EventAttendanceTracker)** | Spring Boot REST API for managing events and attendance developed as a team project. Contributed to backend logic and data persistence, participated in iterative development, and used GitHub for task tracking and collaboration. | Java, Spring Boot, REST, GitHub |
 | **[CozyBakes](https://github.com/urboi11/Web_Server_Final_Project)** | ASP.NET Core MVC web application developed as a team project. Primarily responsible for front-end design and implementation, while contributing to backend structure and database integration as needed. Focused on clean UI, validation, and maintainable architecture. | ASP.NET Core, C#, SQL |
-| **[Dead Forecast](https://it3049c-lively-fa23.github.io/final-project-template-havensir/)** *(Independent Project)* | 2D Phaser survival game featuring mission-based objectives and increasing difficulty. Independently implemented player movement, health, scoring systems, and mission-based progression. | JavaScript, Phaser |
+| **[Dead Forecast](https://it3049c-lively-fa23.github.io/final-project-template-havensir/)** | 2D Phaser survival game featuring mission-based objectives and increasing difficulty. Independently implemented player movement, health, scoring systems, and mission-based progression. | JavaScript, Phaser |
+| **[Simple BMI Calculator](https://github.com/havensir/BMI-Calculator-MAUI)** | Cross-platform BMI calculator built with .NET MAUI to practice mobile UI development and user input handling. Features gender selection, height/weight sliders, and BMI calculation in a clean, minimal UI. | C#, .NET MAUI, XAML |
+
 
 
 ---
