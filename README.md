@@ -28,24 +28,16 @@ My coursework and projects emphasize **clean organization**, **correct implement
 
 ---
 
-### 📌 Selected Projects
+### 📌 Selected Academic Projects  
+Projects completed as part of coursework, showcasing both team collaboration and independent development.
 
-| Project | Description | Technologies |
-|--------|-------------|--------------|
-| **[Event Attendance Tracker (JoinUp)](https://github.com/havensir/EventAttendanceTracker)** | Spring Boot REST API for managing events and attendance developed as a team project. Contributed to backend logic and data persistence, participated in iterative development, and used GitHub for task tracking and collaboration. | Java, Spring Boot, REST, GitHub |
-| **[CozyBakes](https://github.com/urboi11/Web_Server_Final_Project)** | ASP.NET Core MVC web application developed as a team project. Primarily responsible for front-end design and implementation, while contributing to backend structure and database integration as needed. Focused on clean UI, validation, and maintainable architecture. | ASP.NET Core, C#, SQL |
-| **[Dead Forecast](https://it3049c-lively-fa23.github.io/final-project-template-havensir/)** | 2D Phaser survival game featuring mission-based objectives and increasing difficulty. Independently implemented player movement, health, scoring systems, and mission-based progression. | JavaScript, Phaser |
-| **[Simple BMI Calculator](https://github.com/havensir/BMI-Calculator-MAUI)** | Cross-platform BMI calculator built with .NET MAUI to practice mobile UI development and user input handling. Features gender selection, height/weight sliders, and BMI calculation in a clean, minimal UI. | C#, .NET MAUI, XAML |
+| Project | Type | Description | Technologies |
+|--------|------|-------------|--------------|
+| **[Event Attendance Tracker (JoinUp)](https://github.com/havensir/EventAttendanceTracker)** | Group | Team-built Spring Boot REST API for managing events and attendance. Contributed to backend logic, data persistence, and collaborative development using GitHub. | Java, Spring Boot, REST API, GitHub |
+| **[CozyBakes](https://github.com/urboi11/Web_Server_Final_Project)** | Group | Team-developed ASP.NET Core MVC web app. Led front-end UI/UX and contributed to backend structure and database integration. | C#, ASP.NET Core MVC, SQL |
+| **[Dead Forecast](https://it3049c-lively-fa23.github.io/final-project-template-havensir/)** *(Live Demo)* | Solo | 2D Phaser survival game with mission-based objectives, enemy scaling, health, and scoring systems. | JavaScript, Phaser |
+| **[Simple BMI Calculator](https://github.com/havensir/BMI-Calculator-MAUI)** | Solo | Cross-platform BMI calculator built with .NET MAUI featuring sliders, gender selection, and BMI calculation. | C#, .NET MAUI, XAML |
 
-
-
----
-
-### 🧠 Experience Highlights
-
-- Built and launched a small business website from scratch using HTML/CSS, JavaScript, and SQL, including branding and e-commerce functionality.
-- Led multiple academic project teams using Agile/Scrum practices and GitHub administration to deliver high-scoring, production-ready applications.
-- Completed 150+ programming and algorithm challenges across Java, SQL, Python, and C# through independent study.
 
 ---
 
@@ -61,6 +53,3 @@ My coursework and projects emphasize **clean organization**, **correct implement
 ### 📫 Connect with Me
 - **LinkedIn:** https://www.linkedin.com/in/irhavens/
 
----
-
-_This profile highlights selected academic, professional, and personal projects. Repositories are updated as I expand my technical skills._
