@@ -79,14 +79,6 @@ Outside of class, I also designed and built the first website for Bee Sweet Bake
 
 ---
 
-### 📈 GitHub activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=havensir&background=1E1B4B&ring=A78BFA&fire=F472B6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2DD4BF&sideLabels=CBD5E1&dates=94A3B8&stroke=334155&border_radius=16&hide_border=true" alt="GitHub contribution streak for havensir">
-</p>
-
----
-
 ### 📫 Let's connect
 
 Feel free to reach out if you'd like to talk about a project, co-op opportunities, or anything tech-related.
