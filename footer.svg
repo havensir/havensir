@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="Isabella Havens · University of Cincinnati">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1026"/>
+      <stop offset="0.55" stop-color="#1e1b4b"/>
+      <stop offset="1" stop-color="#3b0764"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="0.5" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#ffffff" opacity="0.07"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="120" rx="22"/></clipPath>
+  </defs>
+  <style>
+    .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+    .pulse { animation: pulse 3.2s ease-in-out infinite; }
+    .d1 { animation-delay: .8s } .d2 { animation-delay: 1.6s } .d3 { animation-delay: 2.4s }
+    .flow { stroke-dasharray: 4 8; animation: flow 2.4s linear infinite; }
+    @keyframes pulse { 0%,100% { opacity: .35 } 50% { opacity: 1 } }
+    @keyframes flow { to { stroke-dashoffset: -24 } }
+    @media (prefers-reduced-motion: reduce) { .pulse, .flow { animation: none } }
+  </style>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="120" fill="url(#bg)"/>
+    <rect width="1200" height="120" fill="url(#dots)"/>
+    <rect x="0" y="0" width="1200" height="5" fill="url(#accent)"/>
+
+    <g stroke-width="1.6" fill="none" class="flow">
+      <polyline points="70,78 150,48 240,82 320,56" stroke="#2dd4bf" opacity="0.5"/>
+      <polyline points="880,56 960,82 1050,48 1130,78" stroke="#f472b6" opacity="0.5"/>
+    </g>
+    <circle cx="70" cy="78" r="5" fill="#2dd4bf" class="pulse"/>
+    <circle cx="150" cy="48" r="6" fill="#a78bfa" class="pulse d1"/>
+    <circle cx="240" cy="82" r="5" fill="#2dd4bf" class="pulse d2"/>
+    <circle cx="320" cy="56" r="6" fill="#a78bfa" class="pulse d3"/>
+    <circle cx="880" cy="56" r="6" fill="#a78bfa" class="pulse d1"/>
+    <circle cx="960" cy="82" r="5" fill="#f472b6" class="pulse d3"/>
+    <circle cx="1050" cy="48" r="6" fill="#a78bfa" class="pulse"/>
+    <circle cx="1130" cy="78" r="5" fill="#f472b6" class="pulse d2"/>
+
+    <text x="600" y="72" text-anchor="middle" class="sans" font-size="24" font-weight="600" fill="#ffffff">Isabella Havens <tspan fill="#a78bfa">·</tspan> <tspan font-weight="400" fill="#cbd5e1">University of Cincinnati</tspan></text>
+  </g>
+</svg>

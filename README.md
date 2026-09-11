@@ -23,7 +23,14 @@ On group projects, I usually end up being the person who keeps everything organi
 
 * 📚 I've been continuing to build my cybersecurity knowledge through classes covering areas like risk analysis, security and assurance, cybercrime, networking, and Linux.
 
-* 🧩 I've also been practicing algorithm problems on CodeChef, mostly using Java, Python, SQL, and C#.
+* 🧩 I've also been practicing algorithm problems on CodeChef, mostly using Java, Python, SQL, and C#. So far, I've completed over 150 challenges.
+
+---
+
+### 🏆 Recognition
+
+* 🎓 Dean's List for eight semesters at the University of Cincinnati
+* 🏅 Cincinnatus Scholar
 
 ---
 
@@ -72,6 +79,14 @@ Outside of class, I also designed and built the first website for Bee Sweet Bake
 
 ---
 
+### 📈 GitHub activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=havensir&background=1E1B4B&ring=A78BFA&fire=F472B6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2DD4BF&sideLabels=CBD5E1&dates=94A3B8&stroke=334155&border_radius=16&hide_border=true" alt="GitHub contribution streak for havensir">
+</p>
+
+---
+
 ### 📫 Let's connect
 
 Feel free to reach out if you'd like to talk about a project, co-op opportunities, or anything tech-related.
@@ -80,3 +95,9 @@ Feel free to reach out if you'd like to talk about a project, co-op opportunitie
   <a href="https://www.linkedin.com/in/irhavens/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
   <a href="mailto:havens.isabella.r@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-a78bfa?style=for-the-badge" alt="Email"></a>
 </p>
+
+<br>
+
+<div align="center">
+  <img src="./footer.svg" alt="Isabella Havens · University of Cincinnati" width="100%">
+</div>
